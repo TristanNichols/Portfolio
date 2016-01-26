@@ -6,4 +6,4 @@ I like building things with code, when I finally make something I can truly call
 * Example 2
 * Example 3
 
-[Link to the dominant web browser](https://www.google.com/chrome/browser/)
+[You're welcome](https://www.google.com/chrome/browser/)
