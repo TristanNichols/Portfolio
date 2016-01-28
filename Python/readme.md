@@ -1,5 +1,5 @@
-  ### Python Projects
-  ***
+### Python Projects
+***
   
 A collection of Python Projects developed by Tristan Nichols.
 
