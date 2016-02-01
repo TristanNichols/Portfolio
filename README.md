@@ -2,8 +2,11 @@
 ***
 
 I like building things with code, when I finally make something I can truly call my own, I'll lay it out here!
-* Example 1
-* Example 2
-* Example 3
+* HTML & CSS
+* SQL Database
+* Javascript
+* Python
+* C#
+* Team Projects
 
-[You're welcome](https://www.google.com/chrome/browser/)
+[Here's a link that's sure to help you along the road!](https://www.google.com/chrome/browser/)
