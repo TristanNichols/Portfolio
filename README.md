@@ -15,7 +15,7 @@ I like building things with code, when I finally make something I can truly call
 #### Python
 * Sounds fun, I'll get right on that.
 
-#### 'C#'
+#### C# 
 * I'm currently more interested in C++, but all in due time.
 
 #### Team Projects
