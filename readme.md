@@ -7,7 +7,7 @@ I like building things with code, when I finally make something I can truly call
 * One second while I track down my old login page...
 
 #### SQL Database
-* I was asked to make a Library database for tracking book loans from several fictional locations and things of the like, it is all written by me over the course of several days. Alot of it was created to fill parameters given to me, such as "Create at least 40 Books", which would explain the large amount of fictional code. It was a fun excersize and a great learning oppertunity.
+* I was asked to make a Library database for tracking book loans from several fictional locations and things of the like, it is all written by me over the course of several days. Alot of it was created to fill parameters given to me, such as "Create at least 40 Books", which would explain the large amount of fictional code. It was a fun excersize and a great learning opportunity.
 
 #### Javascript
 * Coming soon!
