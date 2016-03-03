@@ -1,0 +1,1 @@
+This is a project I created myself to meet a few given conditions, I was a bit out of my deapth at first, but I worked my way through the parameters I was to meet. I learned alot through this process, alot of trial and error, but it was well worth it.
