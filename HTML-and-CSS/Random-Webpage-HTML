@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    
+    
+    <head>
+    
+        <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+        <title>This is My Title...</title>
+    
+    </head>
+    
+    <body>
+    
+        <h1>Random Stuff</h1>
+        <p>Code can look alot cleaner with good spacing</p>
+        
+        <ul>
+        
+            <li><em>Oh look</em>, a bullet point!</li>
+            
+            <ol>
+            
+                <li>(Nested ordered list item)</li>
+            
+            </ol>
+        
+        </ul>
+    
+    </body>
+    
+
+</html>
