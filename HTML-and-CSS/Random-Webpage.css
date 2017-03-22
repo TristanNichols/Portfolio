@@ -1,0 +1,24 @@
+h1 {
+    color: #ee3619;
+    font-family: Arial, Sans-Serif;
+}
+
+p {
+    color: blue;
+    font-family: Roboto, Courier, Serif;
+    font-size: 1.2em;
+}
+
+ul {
+    color: purple;
+    font-family: Cursive;
+    font-size: .8em;
+}
+
+ol {
+    color: brown;
+}
+
+em {
+    font-size: .9em;
+}
